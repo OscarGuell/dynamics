@@ -14,4 +14,4 @@ $$f(t,y) = -i[O,y(t)]$$
 
 donde $O$ es otro operador lineal, $i$ es la constante compleja y $[A,B]$ $=$ $AB$ $-$ $BA$ es una operación de conmutación. Note que la función f(t,y) no depende explícitamente del tiempo, lo que simplificará la resolución del problema.
 
-El proyecto se encuentra en [github.com](git@github.com:OscarGuell/dynamics.git)
+El proyecto se encuentra en [github.com](github.com/OscarGuell/dynamics)

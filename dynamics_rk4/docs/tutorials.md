@@ -49,4 +49,11 @@ Finalmente, la rutina principal estará dada por un ciclo for loop:
         yN = rk4(dyn_generator,oOper,yInit,h)
         yInit = yN
 
+Ahora, para hacer la grafica:
 
+    import matplotlib.pyplot as plt
+
+    plt.plot(times,stateQuant00)
+    plt.plot(times,stateQuant11)
+
+![Screenshot](img/Gráfico.png)

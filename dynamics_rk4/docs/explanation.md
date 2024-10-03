@@ -22,3 +22,4 @@ $$k_4=h\cdot f(t_n,y_n+k_3)$$
 
 En general, las imágenes para $k>1$ suelen estar evaluadas en el punto $t_n+\frac{h}{2}$, sin embargo, el segundo término de la suma desaparece debido a que la función no depende explícitamente del tiempo.
 
+
